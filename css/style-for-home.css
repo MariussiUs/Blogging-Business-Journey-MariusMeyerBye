@@ -1,6 +1,6 @@
 body{
     min-height: 100vh;
-    background-image: url(/css/Photos/backround-home.jpg);
+    background-image: url(../css/Photos/backround-home.jpg);
     background-size: cover;
 }
 h1{
